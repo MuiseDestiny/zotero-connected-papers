@@ -2,6 +2,8 @@
 > 一个已经在脑子里设计好，还没写好的插件
 
 - 2023/4/25
+![image](https://user-images.githubusercontent.com/51939531/234237792-6f9fb93c-1009-4183-be01-285337dc8a5d.png)
+
 ![image](https://user-images.githubusercontent.com/51939531/234170875-594acb3f-0656-49c2-978a-5ae442732c19.png)
 
 - 2023/4/24
