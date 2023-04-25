@@ -1,6 +1,9 @@
 # Zotero Connected Papers
 > 一个已经在脑子里设计好，还没写好的插件
 
+- 2023/4/25
+![image](https://user-images.githubusercontent.com/51939531/234170875-594acb3f-0656-49c2-978a-5ae442732c19.png)
+
 - 2023/4/24
 ![image](https://user-images.githubusercontent.com/51939531/234033842-f3afaa25-9353-4751-961e-f085a2c05015.png)
 
