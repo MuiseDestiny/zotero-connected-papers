@@ -1,5 +1,4 @@
 # Zotero Connected Papers
-> 一个已经在脑子里设计好，还没写好的插件
 
 ## How to use
 
