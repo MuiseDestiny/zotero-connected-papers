@@ -1,5 +1,7 @@
 # Zotero Connected Papers
 
+**Not currently open-source, please do not download.**
+
 ## How to use
 
 ![image](https://user-images.githubusercontent.com/51939531/234450414-561cb0d4-5e4e-48bc-8aba-b5c0a08afb8a.png)
