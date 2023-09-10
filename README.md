@@ -2,7 +2,7 @@
 
 **Not currently open-source, please do not download.**
 
-💰[付费加入内测](https://mall.bilibili.com/neul-next/index.html?page=mall-up_itemDetail&noTitleBar=1&itemsId=1103216038&from=items_share&msource=items_share) 当前36/100
+💰[付费加入内测](https://mall.bilibili.com/neul-next/index.html?page=mall-up_itemDetail&noTitleBar=1&itemsId=1103216038&from=items_share&msource=items_share) 当前60/100
 
 ## How to use
 
